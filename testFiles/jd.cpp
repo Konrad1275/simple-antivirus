@@ -1,0 +1,1 @@
+ten plik jest silny

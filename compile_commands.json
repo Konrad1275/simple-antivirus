@@ -1,0 +1,18 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-std=c++17",
+            "-x",
+            "c++",
+            "-Wall",
+            "-Wextra",
+            "-o",
+            "main.exe",
+            "Source/main.cpp"
+        ],
+        "directory": "/home/konri/Desktop/bso_antywirus",
+        "file": "Source/main.cpp"
+    }
+]
